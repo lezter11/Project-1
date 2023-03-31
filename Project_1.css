@@ -1,0 +1,212 @@
+
+body{
+    width: auto;
+    background-color: rgb(244, 244, 234);
+}
+
+header{
+    background-color: rgb(55, 48, 95);
+    height: 80px;
+    margin-top: -23px;
+    margin-left: -8px;
+    width: 1536px;
+    position: -webkit-sticky;
+    position: sticky;
+}
+
+.Text1{
+    position: relative;
+    left: -250px;
+    top: 34px;
+}
+
+.hr1{
+    border: 3px solid rgb(221, 221, 25);
+    position: relative;
+    bottom:  8px;
+    width: 1536px;
+    left: -8px;
+}
+
+.colorchange{
+    color: white;
+    margin-right: 40px;
+}
+
+.header-list{
+    position: relative;
+    left:1000px;
+    width: 400px;
+    top: -6px;
+}
+
+.header-list li{
+    display: inline;
+}
+
+.text2{
+    text-align: center;
+    position: relative;
+    bottom: -75px;
+    width: 1300px;
+    left: 150px;
+    color: white;
+    font-size: 25px;
+}
+
+.sectionA{
+   margin-top: 50px;
+   
+}
+
+.section1{
+    border: 2px solid blue;
+}
+
+.HTML-logo{
+    position: relative;
+    height: 90px;
+    width: 90px;
+    right: -200px;
+    
+}
+.caption1{
+    position: relative;
+    text-align: center;
+    right: -50px;
+    top: 1px;
+    width: 400px;
+}
+h1{
+    text-align: center;
+}
+
+.CSS-logo{
+    position: relative;
+    height: 90px;
+    width: 90px;
+    right: -600px;
+    bottom: 214px;
+    margin-left: 100px;
+}
+
+.caption2{
+    position: relative;
+    text-align: center;
+    right: -550px;
+    top: -215px;
+    width: 400px;
+}
+
+.Brush-logo{
+    position: relative;
+    height: 90px;
+    width: 90px;
+    left: 930px;
+    top: -412px;
+    margin-left: 200px;
+    
+}
+
+.caption3{
+    position: relative;
+    text-align: center;
+    left: 1000px;
+    bottom: 415px;
+    width: 400px;
+}
+
+.About-us{
+    width: 850px;
+    position: relative;
+    left: 104px;
+    bottom: 350px;
+    
+}
+span{
+    font-style: bold;
+}
+
+.What-we-do{
+    background-color: rgb(20, 30, 60);
+    color: white;
+    padding: 10px;
+    width: 300px;
+    position: relative;
+    left: 920px;
+    bottom: 250px;
+}
+
+.services{
+    position: relative;
+    left: 104px;
+    bottom: 500px;
+    height: 70px;
+}
+
+.Quote{
+    width: 350px;
+    padding: 10px;
+    position: relative;
+    background-color: rgb(20, 30, 60);
+    color: white;
+    left: 900px;
+    bottom: 372px;
+}
+
+
+.button{
+    background-color: yellow;
+}
+
+.Website-Design{
+    border: 1px solid rgb(97, 97, 78);
+    width: 800px;
+    height: 110px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    background-color: rgb(213, 213, 196);
+    margin-bottom: 5px;
+}
+.Website-Maintaince{
+    border: 1px solid rgb(97, 97, 78);
+    width: 800px;
+    height: 110px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    background-color: rgb(213, 213, 196);
+    margin-bottom: 5px;
+}
+.Website-Hosting{
+    border: 1px solid rgb(97, 97, 78);
+    width: 800px;
+    height: 110px;
+    padding-bottom: 20px;
+    padding-left: 5px;
+    background-color: rgb(213, 213, 196);
+
+}
+
+.footter{
+    position: fixed;
+    bottom: -1px;
+}
+footer{
+    
+    background-color: rgb(222, 189, 82);
+    text-align: center;
+    position: relative;
+    bottom: 700px;
+    right: 7px;
+    height: 80px;
+    margin-top: -23px;
+    margin-left: -8px;
+    width: 1536px;
+    
+}
+
+.Footer{
+    position: relative;
+    top: 10px;
+    
+}
